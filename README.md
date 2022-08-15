@@ -22,7 +22,7 @@
 - [AUC & GAUC](https://zhuanlan.zhihu.com/p/84350940)
 
 #### （二）正则项
-- [正则化与数据先验分布的关系](http://note.youdao.com/noteshare?id=2851b97199bcdc174001d72b1bec0372)
+- [正则化与数据先验分布的关系](https://www.zhihu.com/question/268906722/answer/2159781976)
 - [L1在0点处不可导怎么办？](http://www.cnblogs.com/pinard/p/6018889.html)可采用坐标轴下降、最小角回归法
 - [L1为什么比L2的解更稀疏](https://zhuanlan.zhihu.com/p/74874291)
 

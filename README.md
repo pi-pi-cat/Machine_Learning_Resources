@@ -35,7 +35,7 @@
 - [参数初始化为什么不能全零](https://cloud.tencent.com/developer/article/1535198)
 - [深度学习参数初始化 Lecunn、Xavier、He初始化](https://cloud.tencent.com/developer/article/1542736)
 - [dropout]()
-- [Batch Normalization](https://cloud.tencent.com/developer/article/1551518)
+- [Batch Normalization](https://zhuanlan.zhihu.com/p/34879333)
 - [dropout和BN在训练&预测时有什么不同](https://zhuanlan.zhihu.com/p/61725100)
 - [Layer Normalization](https://zhuanlan.zhihu.com/p/113233908)
 - [Transformer为什么用LN不用BN（LN和BN两者分别关注什么）](https://www.zhihu.com/question/395811291/answer/2141681320)

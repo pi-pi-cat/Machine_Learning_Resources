@@ -39,6 +39,7 @@
 - [dropout和BN在训练&预测时有什么不同](https://zhuanlan.zhihu.com/p/61725100)
 - [Layer Normalization](https://zhuanlan.zhihu.com/p/113233908)
 - [Transformer为什么用LN不用BN（LN和BN两者分别关注什么）](https://www.zhihu.com/question/395811291/answer/2141681320)
+- [交叉验证](https://zhuanlan.zhihu.com/p/24825503)
 - [ResNet](https://cloud.tencent.com/developer/article/1591484)
 
 #### （五）优化算法

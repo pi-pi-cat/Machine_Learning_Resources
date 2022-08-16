@@ -55,7 +55,7 @@
 - [参数模型 vs 非参数模型](https://blog.csdn.net/FrankieHello/article/details/94022594)
 - [参数估计 最大似然估计与贝叶斯估计](https://blog.csdn.net/bitcarmanlee/article/details/52201858)
 - [交叉熵](https://colah.github.io/posts/2015-09-Visual-Information/)
-- [交叉熵 等价 KL散度 等价 MLE最大似然估计](https://zhuanlan.zhihu.com/p/346518942)
+- [交叉熵 等价 KL散度 等价 MLE最大似然估计](https://www.zhihu.com/question/65288314/answer/244557337)
 - [向量间距离度量方式](http://note.youdao.com/noteshare?id=ffba716f9f94f1cf3fac48fca300c198)
 - [余弦距离和欧氏距离的转换](https://www.zhihu.com/question/19640394/answer/207795500)
 

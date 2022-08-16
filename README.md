@@ -67,7 +67,6 @@
   - [KNN vs K-Means](https://zhuanlan.zhihu.com/p/31580379)
   - [最大熵模型](https://zhuanlan.zhihu.com/p/45949816)
   - [为什么LR要用对数似然，而不是平方损失？](https://zhuanlan.zhihu.com/p/362496849)
-  - [似然函数](https://zh.wikipedia.org/wiki/%E4%BC%BC%E7%84%B6%E5%87%BD%E6%95%B0)
 2. 树模型
 - [逻辑回归与决策树在分类上的区别](https://blog.csdn.net/zhang15953709913/article/details/84841988)
 - [回归树、提升树、GBDT](https://www.jianshu.com/p/005a4e6ac775)

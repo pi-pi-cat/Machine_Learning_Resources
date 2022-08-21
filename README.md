@@ -96,6 +96,7 @@
 - [Embedding中的Dense和Sparse](https://cloud.tencent.com/developer/article/1643505)
 - [DCN](https://zhuanlan.zhihu.com/p/138358291)
 - [DeepFM](https://zhuanlan.zhihu.com/p/332786045)
+- [DeepFM](https://zhuanlan.zhihu.com/p/57158486)
 - [LR & FTRL](https://zhuanlan.zhihu.com/p/55135954)
 - [FM算法](https://zhuanlan.zhihu.com/p/37963267):讲的蛮细的
 - [FM算法结合推荐系统的讲解](https://zhuanlan.zhihu.com/p/58160982)

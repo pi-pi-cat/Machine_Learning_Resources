@@ -93,6 +93,7 @@
 - [NLP/AI面试全记录](https://zhuanlan.zhihu.com/p/57153934)
 
 ### 五、推荐系统 & 计算广告 相关
+- [DCN](https://zhuanlan.zhihu.com/p/138358291)
 - [LR & FTRL](https://zhuanlan.zhihu.com/p/55135954)
 - [FM算法](https://zhuanlan.zhihu.com/p/37963267):讲的蛮细的
 - [FM算法结合推荐系统的讲解](https://zhuanlan.zhihu.com/p/58160982)
